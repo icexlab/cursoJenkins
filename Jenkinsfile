@@ -11,7 +11,6 @@ pipeline {
            steps {
                echo 'Hola Mundo'
                echo 'Hola Mundo'
-               echo 'Hola Mundo'
                echo 'funciona todo'
            }
        }
