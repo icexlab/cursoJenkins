@@ -11,7 +11,7 @@ pipeline {
            steps {
                echo 'Hola Mundo'
                echo 'Hola Mundo'
-               echo 'Ale'
+               echo 'High'
            }
        }
        stage('Gracias Totales') {
