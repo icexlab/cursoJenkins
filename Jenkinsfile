@@ -12,6 +12,7 @@ pipeline {
                echo 'Hola Mundo'
                echo 'Hola Mundo'
                echo 'Hola Mundo'
+               echo 'Funciona !!!'
            }
        }
        stage('Gracias Totales') {
